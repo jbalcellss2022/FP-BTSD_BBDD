@@ -34,12 +34,12 @@ The folder structure of the repository is distributed as follows:
 
 > To deploy a new, clean database use the CleanDB folder
 
-- CleanDB
- - INSERTS
-  - 1.Roles_Permisos.sql
-  - 2.Create_Users.sql
-  - 3.Master_Tables.sql
-  
+> - CleanDB
+>    - INSERTS
+>        - 1.Roles_Permisos.sql
+>        - 2.Create_Users.sql
+>        - 3.Master_Tables.sql
+
  - BD
   - 1.new_DB.sql
 
