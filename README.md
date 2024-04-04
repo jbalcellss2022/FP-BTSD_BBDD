@@ -32,18 +32,18 @@ The aim of this repository is to have the database structure and example or real
 
 The folder structure of the repository is distributed as follows:
 
-> To deploy a new, clean database use the CleanDB folder
+> *To deploy a new, clean database use the CleanDB folder
 
 > - CleanDB
 >    - INSERTS
->        - 1.User_Roles.sql
+>        - 1.Users_Roles.sql
 >        - 2.Users_Data.sql
 >        - 3.Master_Tables.sql
 
 > - BD
 >     - 1.new_DB.sql
 
-> To perform version upgrades on locally deployed databases use the UPDATES folder:
+> *To perform version upgrades on locally deployed databases use the UPDATES folder:
 > - UpdateDB
 
 <!-- SCREENSHOTS -->
