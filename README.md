@@ -60,14 +60,11 @@ The folder structure of the repository is distributed as follows:
 
 <div id="block" align="center">
     <div class="inline-block" style="display: inline-block; width: 30%">
-        <img src="images/docker2.jpg">
+        <img src="images/SQLServer-1.png">
     </div>
     <br>
     <div class="inline-block" style="display: inline-block; width: 30%">
-        <img src="images/docker3.jpg">
+        <img src="images/SQLServer-2.png">
     </div>
     <br>
-    <div class="inline-block" style="display: inline-block; width: 30%">
-        <img src="images/docker4.jpg">
-    </div>
 </div>
