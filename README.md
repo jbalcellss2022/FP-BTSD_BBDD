@@ -36,12 +36,15 @@ The folder structure of the repository is distributed as follows:
 
 > - CleanDB
 >    - INSERTS
->        - 1.Roles_Permisos.sql
->        - 2.Create_Users.sql
+>        - 1.User_Roles.sql
+>        - 2.Users_Data.sql
 >        - 3.Master_Tables.sql
 
- - BD
-  - 1.new_DB.sql
+> - BD
+>     - 1.new_DB.sql
+
+> To perform version upgrades on locally deployed databases use the UPDATES folder:
+> - UpdateDB
 
 <!-- SCREENSHOTS -->
 ## Screenshots
