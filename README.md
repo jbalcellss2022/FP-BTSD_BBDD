@@ -32,7 +32,7 @@ The aim of this repository is to have the database structure and example or real
 
 The folder structure of the repository is distributed as follows:
 
-> *To deploy a new, clean database use the CleanDB folder*
+> ***To deploy a new, clean database use the CleanDB folder***
 
 > - CleanDB
 >    - INSERTS
@@ -43,7 +43,7 @@ The folder structure of the repository is distributed as follows:
 > - BD
 >     - 1.new_DB.sql
 
-> *To perform version upgrades on locally deployed databases use the UPDATES folder*
+> ***To perform version upgrades on locally deployed databases use the UPDATES folder***
 > - UpdateDB
 >     - v1.1
 >         - v1.0_to_1.1.sql
