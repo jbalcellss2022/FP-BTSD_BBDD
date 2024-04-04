@@ -46,7 +46,13 @@ The folder structure of the repository is distributed as follows:
 > *To perform version upgrades on locally deployed databases use the UPDATES folder*
 > - UpdateDB
 >     - v1.1
+>         - v1.0_to_1.1.sql
+>         - OtherSQLScripts.sql
+>         - ...
 >     - vX.X ...
+>         - vX.X_to_X.X.sql
+>         - OtherSQLScripts.sql
+>         - ...
 
 <!-- SCREENSHOTS -->
 ## Screenshots
