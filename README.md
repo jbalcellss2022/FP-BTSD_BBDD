@@ -15,7 +15,7 @@
   <summary>Table of contents</summary>
   <ol>
     <li><a href="#introduction">Introduction</a></li>
-    <li><a href="#structure">Estructura de carpetas</a></li>
+    <li><a href="#structure">Repository structure</a></li>
     <li><a href="#screenshots">Screenshoots</a></li>
   </ol>
 </details>
@@ -27,16 +27,19 @@
 The aim of this repository is to have the database structure and example or real working data available in order to be able to deploy the database in a local version for development in a few minutes. Through the SQL script structure of the CleanDB folder a complete and functional database can be deployed. Through the versioning SQL script structure in the UpdateDB folder, a team of developers can incorporate changes and enhancements as they are made to integrate into the development or production database through versioning.
 
 <!-- STRUCTURE -->
-## Structure
+## Repository structure
 <div id="structure"></div>
 
 The folder structure of the repository is distributed as follows:
+
+> To deploy a new, clean database use the CleanDB folder
 
 - CleanDB
  - INSERTS
   - 1.Roles_Permisos.sql
   - 2.Create_Users.sql
   - 3.Master_Tables.sql
+  
  - BD
   - 1.new_DB.sql
 
